@@ -1,5 +1,5 @@
 
-Blogging about software development
+Notes on software development
 ========================================
 
 .. postlist:: 5

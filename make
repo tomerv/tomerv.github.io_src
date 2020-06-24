@@ -1,0 +1,1 @@
+ablog build -w ../tomerv.github.io
