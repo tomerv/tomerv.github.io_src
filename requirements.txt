@@ -36,7 +36,7 @@ pathtools==0.1.2
     # via watchdog
 pip-tools==4.5.1
     # via -r requirements.in
-pygments==2.6.1
+pygments==2.7.4
     # via sphinx
 pyparsing==2.4.6
     # via packaging
